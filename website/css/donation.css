@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.section_6 {
+    background-image: url(../img/bg-5.webp);
+    /*background: #aaa;*/
+    background-repeat: no-repeat;
+    background-size: 100% 75%;
+    top: 240px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 110vh;
+    position: relative;
+}
+
+.tagline_3 {
+    position: absolute;
+    color: #fff;
+    margin-top: -40%;
+    left: -23%;
+    letter-spacing: 3px;
+    font-size: 30px;
+    text-transform: uppercase;;
+    font-family: 'Indie Flower', cursive;
+    width: 100%;
+    text-align: center;
+}
+
+.tag2 {
+    position: absolute;
+    margin-top: -10%;
+    margin-left: -20%;  
+}
+.tag2 img{
+    position: absolute;
+    height: 425px;
+    width: 800px;
+    margin-top: -237px;
+    margin-left: -659px;
+}
+
+
+.coffee_button {
+    position: absolute;
+    background: transparent;
+    border: none;
+    margin-top: 6%;
+    cursor: pointer;
+    margin-left: 10%;
+    
+}
+
+.coffee_button img {
+    height: 450px;
+    width: 470px;
+}
+
+.coffee_circle img
+{
+    
+    position: absolute;
+    margin-top: -8%;
+    margin-left: 39%;
+    height: 110px;
+
+}
